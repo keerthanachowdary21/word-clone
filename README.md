@@ -41,19 +41,19 @@ Your task is to build a simple Wordle-like game using React. The goal is to eval
 
 
 ## 🛠 Tech Stack
-- ⚛️ **React / Next.js**
-- 🎨 **CSS / TailwindCSS** for styling
+- ⚛️ **React.JS**
+- 🎨 **CSS** for styling
 - ❌ **No backend required** (words can be hardcoded)
 
 ## 🚀 Getting Started
 ### 🔧 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/keerthanachowdary21/wordle-clone.git
+   git clone https://github.com/keerthanachowdary21/word-clone.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd wordle-clone
+   cd word-clone
    ```
 3. Install dependencies:
    ```sh
@@ -64,9 +64,11 @@ Your task is to build a simple Wordle-like game using React. The goal is to eval
    npm start
    ```
 
-## 📄 License
-This project is licensed under the **MIT License**.
+## Deployment
+This project is deployed on **Vercel**. To deploy your version:
+1. Push your code to **GitHub**.
+2. Import the repository into **Vercel**.
+3. Deploy with default settings.
 
----
-
+🚀 **Built with ❤️ using React!**
 🚀 **Happy Coding!** 🎯
