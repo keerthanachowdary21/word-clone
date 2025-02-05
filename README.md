@@ -1,7 +1,5 @@
 # Wordle Clone
 
-## 🚀 Full Stack Developer Assignment
-
 ### 🎯 Objective
 Your task is to build a simple Wordle-like game using React. The goal is to evaluate your ability to structure a React application, manage state, and implement UI interactions effectively.
 
