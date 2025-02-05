@@ -69,4 +69,5 @@ This project is deployed on **Vercel**. To deploy your version:
 3. Deploy with default settings.
 
 🚀 **Built with ❤️ using React!**
+
 🚀 **Happy Coding!** 🎯
